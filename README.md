@@ -1,3 +1,3 @@
 <p align="center">
-  <img width="460" height="300" src="">
+  <img src="resources/images/microCSS Logo wobg white.png">
 </p>
