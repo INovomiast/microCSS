@@ -14,5 +14,13 @@ Here goes all the classes of microCSS{
                 blue
                 purple
         }
-        class6: 
+    general:
+        class6: round_border
+        class7: border_tpx_type
+        class8: textal:
+            options:
+                left
+                right
+                center
+                justify
 }
