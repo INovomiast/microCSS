@@ -13,3 +13,22 @@ Have in mind that this library it's only a for funny project for learning and ob
 
 <hr style="width: 100%; border: solid 2px black;">
 
+[![Version](https://img.shields.io/badge/microCSS-1.0.0-blue.svg?maxAge=259200)]()
+[![Stage](https://img.shields.io/badge/Release-UnderDevelopment-orange.svg)]()
+[![Build](https://img.shields.io/badge/Supported_CSS_Version-Css3-blue.svg)]()
+[![Build](https://img.shields.io/badge/Intall_Method-NPM-darkgreen.svg)]()
+[![Documentation](https://img.shields.io/badge/Docs-Press_Here!-purple.svg?maxAge=259200)](https://microcss.000webhostapp.com/documentation/en)
+[![Contributions](https://img.shields.io/badge/Contributions-Press_Here!-yellow.svg?maxAge=259200)](https://microcss.000webhostapp.com/contribute/)
+
+<hr style="width: 100%; border: solid 2px black;">
+
+## How to install **microCSS**
+<p align="center">
+  To install microCSS you will need:
+  <a href="https://nodejs.org/">Node.JS</a>. <br>
+  So let's start!...
+</p>
+1- Install microCSS by using  NPM!: <br>
+```plaintext
+hello
+```
