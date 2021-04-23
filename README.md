@@ -1,3 +1,3 @@
-# MicroCSS
-
-<center><img src="/resources/images/microCSS Logo wobg white.png" alt="logo" /></center>
+<p align="center">
+  <img width="460" height="300" src="">
+</p>
