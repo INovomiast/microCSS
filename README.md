@@ -33,3 +33,10 @@ Have in mind that this library it's only a for funny project for learning and ob
 ```npm
 npm install microCSS
 ```
+
+or by just using CND
+
+```html
+    <link rel="stylesheet" href="https://unpkg.com/browse/microCSS@3.3.1/dist/main.css">
+```
+ **Il Recomend you to install it by using the npm option**
