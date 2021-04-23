@@ -1,0 +1,18 @@
+Here goes all the classes of microCSS{
+    text:
+        class1: bold
+        class2: cursive
+        class3: underlined
+        class4: dotted
+        class5: color_ps{
+            possibilities:
+                red
+                black
+                white
+                green
+                orange
+                blue
+                purple
+        }
+        class6: 
+}
