@@ -29,8 +29,7 @@ Have in mind that this library it's only a for funny project for learning and ob
   So let's start!...
 </p>
 1- Install microCSS by using  NPM!: <br>
-```ssh
 
-  npm install microCSS
-
+```npm
+npm install microCSS
 ```
