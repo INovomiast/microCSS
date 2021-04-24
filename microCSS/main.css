@@ -1,0 +1,14 @@
+/*This css file, only imports all in one file and then... you can use it in all!*/
+
+@import "text.css";
+@import "general.css";
+@import "border.css";
+@import "responsive.css";
+@import "buttons.css";
+@import "menu.css";
+@import "fonts.css";
+@import "colors.css";
+@import "roundedb.css";
+@import "gradients.css";
+
+/*This css file, only imports all in one file and then... you can use it in all!*/
