@@ -10,6 +10,10 @@
 @import url('https://fonts.googleapis.com/css2?family=Karantina:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Roboto+Condensed:wght@300&display=swap');
 @import url('https://fonts.googleapis.com/css2?family=Source+Sans+Pro:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Oswald:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Poppins:wght@300&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=PT+Sans:ital@1&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Original+Surfer&display=swap');
 /*All fonts*/
 
 
@@ -56,5 +60,21 @@
 
 .font_srcsanspro{
     font-family: 'Source Sans Pro', sans-serif;
+}
+
+.font_osw{
+    font-family: 'Oswald', sans-serif;
+}
+
+.font_mariepoppins{
+    font-family: 'Poppins', sans-serif;
+}
+
+.font_ptsans{
+    font-family: 'PT Sans', sans-serif;
+}
+
+.font_surfer{
+    font-family: 'Original Surfer', cursive;
 }
 /*Classes*/
