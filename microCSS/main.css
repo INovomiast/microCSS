@@ -10,5 +10,6 @@
 @import "colors.css";
 @import "roundedb.css";
 @import "gradients.css";
+@import "border_color.css";
 
 /*This css file, only imports all in one file and then... you can use it in all!*/
