@@ -42,4 +42,4 @@ Or use CND
 
 <hr style="width: 100%; border: solid 2px black;">
 
-The official website of microCSS is: https://microcss.000webhostapp.com/
+The official website of microCSS is: https://ivan-novomiast.github.io/microCSS
