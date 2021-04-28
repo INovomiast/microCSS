@@ -17,8 +17,8 @@ Have in mind that this library it's only a for funny project for learning and ob
 [![Stage](https://img.shields.io/badge/Release-UnderDevelopment-orange.svg)]()
 [![Build](https://img.shields.io/badge/Supported_CSS_Version-Css3-blue.svg)]()
 [![Build](https://img.shields.io/badge/Intall_Method-NPM-darkgreen.svg)]()
-[![Documentation](https://img.shields.io/badge/Docs-Press_Here!-purple.svg?maxAge=259200)](https://microcss.000webhostapp.com/documentation/en)
-[![Contributions](https://img.shields.io/badge/Contributions-Press_Here!-yellow.svg?maxAge=259200)](https://microcss.000webhostapp.com/contribute/)
+[![Documentation](https://img.shields.io/badge/Docs-Press_Here!-purple.svg?maxAge=259200)](https://ivan-novomiast.github.io/microCSS/documentation/en)
+[![Contributions](https://img.shields.io/badge/Contributions-Press_Here!-yellow.svg?maxAge=259200)](https://ivan-novomiast.github.io/microCSS/contribute/)
 
 <hr style="width: 100%; border: solid 2px black;">
 
@@ -44,4 +44,10 @@ Or use CND
 
 <hr style="width: 100%; border: solid 2px black;">
 
-The official website of microCSS is: https://ivan-novomiast.github.io/microCSS
+<p aling="center">
+  The official website of microCSS is: https://ivan-novomiast.github.io/microCSS
+</p>
+
+<hr style="width: 100%; border: solid 2px black;">
+
+
