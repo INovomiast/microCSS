@@ -39,9 +39,9 @@ Or use CND
     <link rel="stylesheet" href="https://unpkg.com/browse/microCSS@1.0.0/dist/main.css">
 ```
  **Il Recomend you to install it by using the npm option**
-<br>
+ 
 2- Use the docs for using the library
-<br>
+
 <hr style="width: 100%; border: solid 2px black;">
 
 The official website of microCSS is: https://ivan-novomiast.github.io/microCSS
