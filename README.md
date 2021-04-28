@@ -44,7 +44,7 @@ Or use CND
 
 <hr style="width: 100%; border: solid 2px black;">
 
-<p aling="center">
+<p align="center">
   The official website of microCSS is: https://ivan-novomiast.github.io/microCSS
 </p>
 
