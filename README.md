@@ -53,3 +53,9 @@ Or use CND
 If you find any error or issue, please, post it in the **ISSUES** part of the repository... we are going to Check it and provide a patch to the code as soon as possible.
 
 <hr style="width: 100%; border: solid 2px black;">
+
+# SOON!
+
+<img src="" alt=""/>
+
+
