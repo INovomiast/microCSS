@@ -56,6 +56,10 @@ If you find any error or issue, please, post it in the **ISSUES** part of the re
 
 # SOON!
 
-<img src="resources/images/microCSS Logo white rounded.png" alt=""/>
+<p align="center">
+  <img src="resources/images/microCSS Logo white rounded.png" alt=""/>
+  <br>
+  <img src="resources/images/microPY white rounded.png" alt=""/>
+</p>
 
 
