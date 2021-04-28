@@ -1,5 +1,5 @@
 <p align="center">
-  <img src="resources/images/microCSS Logo wobg white.png">
+  <img src="resources/images/microCSS Logo white rounded(1).png">
 </p>
 <hr style="width: 100%; border: solid 2px black;">
 <p align="center">
