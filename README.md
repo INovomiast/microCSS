@@ -62,4 +62,4 @@ If you find any error or issue, please, post it in the **ISSUES** part of the re
   <img src="resources/images/microPY white rounded.png" alt=""/>
 </p>
 
-
+<hr style="width: 100%; border: solid 2px black;">
