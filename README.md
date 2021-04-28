@@ -56,6 +56,6 @@ If you find any error or issue, please, post it in the **ISSUES** part of the re
 
 # SOON!
 
-<img src="" alt=""/>
+<img src="resources/images/microCSS Logo white rounded.png" alt=""/>
 
 
