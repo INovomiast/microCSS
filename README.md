@@ -54,6 +54,10 @@ If you find any error or issue, please, post it in the **ISSUES** part of the re
 
 <hr style="width: 100%; border: solid 2px black;">
 
+# IMPORTANT!
+This css library has special Snippets in <a href="https://github.com/INovomiast/UsefulSnippets">UsefulSnippetsRepo</a>, so if you wan't to have good and useful snippets for your IDE, just Download <a href="https://github.com/INovomiast/UsefulSnippets">UsefulSnippets</a>
+
+
 # SOON!
 
 <p align="center">
